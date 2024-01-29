@@ -3,7 +3,7 @@ import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
 import { BiHappyBeaming } from "react-icons/bi";
 import { BiBadgeCheck } from "react-icons/bi";
-import ME from "../../assets/brayancortado.png";
+import ME from "../../assets/brayan/brayancortado.png";
 import "./intro.css";
 
 const Intro = () => {

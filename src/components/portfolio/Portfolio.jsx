@@ -1,7 +1,7 @@
 import React from "react";
 import IMG1 from "../../assets/porfolio/web_apple.png";
 import IMG2 from "../../assets/todo.png";
-import IMG4 from "../../assets/fake.png";
+import IMG4 from "../../assets/porfolio/web_reservas_salones.png";
 import gif from "../../assets/gif/trabajando.gif"
 
 import "./portfolio.css";
