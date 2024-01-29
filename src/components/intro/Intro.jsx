@@ -1,6 +1,8 @@
 import React from "react";
 import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
+import { BiHappyBeaming } from "react-icons/bi";
+import { BiBadgeCheck } from "react-icons/bi";
 import ME from "../../assets/brayancortado.png";
 import "./intro.css";
 
@@ -35,14 +37,14 @@ const Intro = () => {
               <small>20+ Proyectos completados</small>
             </article>
             <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
+              <BiBadgeCheck  className="about__icon" />
               <h5>Certificados</h5>
               <small>5+ Certificaciones</small>
             </article>
             <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Proyectos</h5>
-              <small>20+ Proyectos completados</small>
+              <BiHappyBeaming className="about__icon" />
+              <h5>Hobbys</h5>
+              <small>Gym Netflix Desarrollar </small>
             </article>
           </div>
         </div>
