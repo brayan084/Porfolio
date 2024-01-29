@@ -13,7 +13,7 @@ const Portfolio = () => {
       title: "Web Ecommerce Apple Store",
       img: IMG1,
       description: "Se desarrollo una web E-comerce de productos apple. En esta web se pueden ver algunos de los productos de Apple, adicionalmente se puede ver el detalle de cada uno de ellos, si te registras con google podras acceder a realizar pedidos, ver los pedidos ya realizados y ver varias funcionalidades mas.",
-      technologies: "Frontend: React, Prime | Backend: NodeJS, Express, Sequelize | Base de datos: MySQL",
+      technologies: "Frontend: javascript, React, Prime | Backend: NodeJS, Express, Sequelize | Base de datos: MySQL",
       link: "https://proyecto-copy-apple.web.app/",
       github: "https://github.com/brayan084/copy-apple-deploy",
     },
@@ -22,19 +22,17 @@ const Portfolio = () => {
       title: "Web Reservas de salones de fiestas",
       img: IMG4,
       description:
-        "FakeStore app that provides information about available products and their details",
-      technologies: "React | Redux",
-      link: "https://fakestore-metrics.netlify.app/",
-      github: "https://github.com/Meri-MG/Fakestore---react",
+        "Cree una web donde puedes ver distintos salones de fiestas para alquilar, en la web se pueden hacer reservas con fecha y hora, adicionalmente puedes ver el historial de tus reservas y ver el estado de tus reservas.",
+      technologies: "Frontend: typescript, React, Prime, fullcalendar, momentjs | Backend: NodeJS, Express, nodemailer | Base de datos: MySQL",
+      github: "https://github.com/brayan084/reservas-salon",
     },
     {
       id: 3,
       title: "Guardar puntos de interes en google maps",
       img: IMG2,
-      description: "User friendly app to plan your day and manage tasks",
-      technologies: "JavaScript | Webpack",
-      link: "https://meri-mg.github.io/To-Do-List/dist/",
-      github: "https://github.com/Meri-MG/To-Do-List",
+      description: "En esta Web te puedes registrar con google y puedes guardar puntos de interes en google maps de forma rapida y sencilla.",
+      technologies: "Frontend: typescript, React, Prime, geolib | Base de datos: Firebase database | api: google maps",
+      github: "https://github.com/brayan084/puntos-maps",
     }
   ];
 
