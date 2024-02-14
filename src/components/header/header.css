@@ -17,6 +17,11 @@ header {
   margin-top: 2.5rem;
 }
 
+.header__container p {
+  text-align: center;
+  font-size: larger; 
+}
+
 .header__socials {
   display: flex;
   flex-direction: column;
@@ -28,12 +33,12 @@ header {
   font-size: 2rem;
 }
 
-.header__socials::after {
+/* .header__socials::after {
   content: '';
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
-}
+} */
 
 .email {
   position: absolute;
